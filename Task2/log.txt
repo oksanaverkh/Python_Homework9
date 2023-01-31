@@ -1,25 +1,45 @@
-Oksana, 284837506, /get 12
-121212
-Calculation in progress 12 12 12
-Oksana, 284837506, /get +
-+++
-Oksana, 284837506, /get 12
-121212
-Calculation in progress 12 12 12
-Oksana, 284837506, /get 12 + 14
-121212
-Calculation in progress 12 12 12
-Oksana, 284837506, /get 13
-131313
-Calculation in progress 13 13 13
-Oksana, 284837506, /get 14
-141414
-Calculation in progress 14 14 14
-Oksana, 284837506, /get 12 + 14
-12+14
-Calculation in progress 12 + 14
-Oksana, 284837506, /get 15 / 5
-15/5
-Calculation in progress 15 / 5
-Oksana, 284837506, /get 12 * 4
-Calculation in progress 12 * 4
+Oksana, 284837506, /get 50 + 80
+User entered numbers and operator: 50+80
+Calculation in progress 50 + 80
+Oksana, 284837506, /get 50 + 80
+Result displayed to user: 130
+02:32 Oksana, 284837506, /get 150 * 2
+02:32User entered numbers and operator: 150*2
+02:32Calculation in progress 150 * 2
+02:32 Oksana, 284837506, /get 150 * 2
+02:32Result displayed to user: 300
+31/01/2023 02:45User starts the program
+31/01/2023 02:45User starts the program
+31/01/2023 02:45User chose view of logging journal
+31/01/2023 02:46User starts the program
+31/01/2023 02:46User starts the program
+31/01/2023 02:46User chose calculation
+31/01/2023 02:46User entered numbers and operator
+31/01/2023 02:46 Oksana, 284837506, /get 15 * 8
+31/01/2023 02:46Calculation in progress 15 * 8
+31/01/2023 02:46Result displayed to user
+31/01/2023 02:46 Oksana, 284837506, /get 15 * 8
+31/01/2023 02:46User starts the program
+31/01/2023 02:46User starts the program
+31/01/2023 02:46User chose view of logging journal
+31/01/2023 02:51 User starts the program
+31/01/2023 02:58 User starts the program
+31/01/2023 02:58 User chose an operation
+31/01/2023 02:59 User entered numbers and operator
+31/01/2023 02:59 Oksana, 284837506, /get 13 * 7
+31/01/2023 02:59 Calculation in progress 13 * 7
+31/01/2023 02:59 Result displayed to user 91
+31/01/2023 02:59 User starts the program
+31/01/2023 02:59 User chose an operation
+31/01/2023 03:00 User starts the program
+31/01/2023 03:00 User chose an operation
+31/01/2023 03:00 User entered numbers and operator
+31/01/2023 03:00 Oksana, 284837506, /get 78 - 4
+31/01/2023 03:00 Calculation in progress 78 - 4
+31/01/2023 03:00 Result displayed to user 74
+31/01/2023 03:05 User starts the program
+31/01/2023 03:05 User chose an operation
+31/01/2023 03:05 User entered numbers and operator
+31/01/2023 03:05 Oksana, 284837506, /get 7 * 6
+31/01/2023 03:05 Calculation in progress 7 * 6
+31/01/2023 03:05 Result displayed to user 42
