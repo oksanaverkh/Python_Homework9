@@ -2,7 +2,7 @@
 # Создать калькулятор для работы с рациональными и комплексными числами, организовать меню, добавив в неё систему логирования
 
 import logger as log
-from telegram import Update, Bot
+from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, CallbackContext
 import user_interface as ui
 

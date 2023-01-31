@@ -1,0 +1,85 @@
+31/01/2023 16:19 User starts the program
+31/01/2023 16:19 User chose an operation
+31/01/2023 16:19 Oksana, 284837506, /start
+31/01/2023 16:19 Info about contact requested by user
+31/01/2023 16:19 Info about contact requested by user
+31/01/2023 16:19 Provided info about contact
+31/01/2023 16:19 Oksana, 284837506, /find Miller
+31/01/2023 16:25 User starts the program
+31/01/2023 16:25 User chose an operation
+31/01/2023 16:25 Oksana, 284837506, /start
+31/01/2023 16:25 Contact addition requested by user
+31/01/2023 16:26 Contact addition requested by user
+31/01/2023 16:26 New contact added
+31/01/2023 16:26 Oksana, 284837506, /add Zhirnov Michael 89997005656 mobile
+31/01/2023 16:26 User starts the program
+31/01/2023 16:26 User chose an operation
+31/01/2023 16:26 Oksana, 284837506, /start
+31/01/2023 16:26 Info about contact requested by user
+31/01/2023 16:26 Info about contact requested by user
+31/01/2023 16:26 Provided info about contact
+31/01/2023 16:26 Oksana, 284837506, /find Zhirnov
+31/01/2023 16:27 User starts the program
+31/01/2023 16:27 User chose an operation
+31/01/2023 16:27 Oksana, 284837506, /start
+31/01/2023 16:28 Info about contact requested by user
+31/01/2023 16:28 Info about contact requested by user
+31/01/2023 16:28 Provided info about contact
+31/01/2023 16:28 Oksana, 284837506, /find Escobar
+31/01/2023 16:42 User starts the program
+31/01/2023 16:42 User chose an operation
+31/01/2023 16:42 Oksana, 284837506, /start
+31/01/2023 16:48 User starts the program
+31/01/2023 16:48 User chose an operation
+31/01/2023 16:48 Oksana, 284837506, /start
+31/01/2023 17:11 User starts the program
+31/01/2023 17:11 User chose an operation
+31/01/2023 17:11 Oksana, 284837506, /start
+31/01/2023 17:11 User chose export of the phonebook
+31/01/2023 17:11 User chose an export format
+31/01/2023 17:11 Oksana, 284837506, /export
+31/01/2023 17:11 Export of the phonebook in .csv format requested by user
+31/01/2023 17:11 Oksana, 284837506, /csv
+31/01/2023 17:11 Phonebook.csv unloaded
+31/01/2023 17:12 Phonebook preview requested by user
+31/01/2023 17:12 Oksana, 284837506, /here
+31/01/2023 17:22 User starts the program
+31/01/2023 17:22 User chose an operation
+31/01/2023 17:22 Oksana, 284837506, /start
+31/01/2023 17:22 Info about contact requested by user
+31/01/2023 17:22 Info about contact requested by user
+31/01/2023 17:22 Provided info about contact
+31/01/2023 17:22 Oksana, 284837506, /find Kulibali
+31/01/2023 17:23 Contact addition requested by user
+31/01/2023 17:23 Contact addition requested by user
+31/01/2023 17:23 New contact added
+31/01/2023 17:23 Oksana, 284837506, /add Kane Hurry +450009998877 mobile
+31/01/2023 17:23 Info about contact requested by user
+31/01/2023 17:23 Info about contact requested by user
+31/01/2023 17:23 Provided info about contact
+31/01/2023 17:23 Oksana, 284837506, /find Kane
+31/01/2023 17:23 User chose export of the phonebook
+31/01/2023 17:24 User chose an export format
+31/01/2023 17:24 Oksana, 284837506, /export
+31/01/2023 17:24 Export of the phonebook in .csv format requested by user
+31/01/2023 17:24 Oksana, 284837506, /csv
+31/01/2023 17:24 Phonebook.csv unloaded
+31/01/2023 17:24 User chose export of the logging journal
+31/01/2023 17:24 User chose an export format
+31/01/2023 17:24 Oksana, 284837506, /load
+31/01/2023 17:24 Phonebook preview requested by user
+31/01/2023 17:24 Oksana, 284837506, /here
+31/01/2023 17:24 User chose export of the logging journal
+31/01/2023 17:24 User chose an export format
+31/01/2023 17:24 Oksana, 284837506, /load
+31/01/2023 17:24 Phonebook preview requested by user
+31/01/2023 17:24 Oksana, 284837506, /here
+31/01/2023 17:26 User starts the program
+31/01/2023 17:26 User chose an operation
+31/01/2023 17:26 Oksana, 284837506, /start
+31/01/2023 17:26 User chose export of the logging journal
+31/01/2023 17:26 User chose an export format
+31/01/2023 17:26 Oksana, 284837506, /load
+31/01/2023 17:26 Export of the logging journal in .txt format requested by user
+31/01/2023 17:26 Oksana, 284837506, /intxt
+31/01/2023 17:26 log.txt unloaded

@@ -1,48 +1,60 @@
-import user_interface as ui
-import check_input as c
+# Прикрутить бота к задачам с предыдущего семинара:
+# Создать телефонный справочник с возможностью импорта и экспорта данных в нескольких форматах.
+
+import bot_commands_enter as bce
+import bot_commands_display as bcd
+
 import logger as log
-import data_display as dd
-import html_provider as hp
-import csv_provider as cp
+from telegram import Update
+from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, CallbackContext
 
 import os
 import random
 os.system('cls')
 
-print('Choose an operation: ')
-print('  finding a contact - 1',
-      '  addition of a new contact - 2',
-      '  export of a phonebook - 3',
-      '  logger journal unload - 4', sep='\n')
-user_input = c.check_input_1()
+app = ApplicationBuilder().token("5812301493:AAGP6LQ1R9DZ5SA-FkzcXZENs9QiMtm2a_8").build()
+print('server start')
 
-if user_input == '1':
-    ui.show_contact()
+app.add_handler(CommandHandler("start", bce.start))
+app.add_handler(CommandHandler("add", bce.add_contact))
+app.add_handler(CommandHandler("find", bcd.find_contact))
 
-elif user_input == '2':
-    print('Choose an operation: manual addition - 1, import from a file - 2')
-    next_input = c.check_input_2()
+app.add_handler(CommandHandler("export", bcd.export_phonebook))
+app.add_handler(CommandHandler("txt", bcd.export_phonebook_txt))
+app.add_handler(CommandHandler("csv", bcd.export_phonebook_csv))
+app.add_handler(CommandHandler("here", bcd.export_phonebook_message))
 
-    if next_input == '1':
-        ui.add_contact()
-    else:
-        ui.import_contact()
+app.add_handler(CommandHandler("load", log.export_logging_journal))
+app.add_handler(CommandHandler("intxt", log.export_logging_journal_txt))
+app.add_handler(CommandHandler("inmessage", log.export_logging_journal_message))
 
-elif user_input == '3':
-    print('Choose a view format: HTML - 1, CSV.file - 2, terminal - 3')
-    next_input = c.check_input_3()
+app.run_polling()
 
-    if next_input == '1':
-        hp.create_html()
-    elif next_input == '2':
-        cp.create_csv()
-    else:
-        print(*(dd.show_phonebook()))
 
-else:
-    print('Choose a view format: CSV.file - 1, terminal - 2')
-    next_input = c.check_input_2()
-    if next_input == '1':
-        log.log_output_data_csv()
-    else:
-        log.log_output_data_term()
+
+
+
+
+
+    
+
+
+
+# elif user_input == '3':
+#     print('Choose a view format: HTML - 1, CSV.file - 2, terminal - 3')
+#     next_input = c.check_input_3()
+
+#     if next_input == '1':
+#         hp.create_html()
+#     elif next_input == '2':
+#         cp.create_csv()
+#     else:
+#         print(*(dd.show_phonebook()))
+
+# else:
+#     print('Choose a view format: CSV.file - 1, terminal - 2')
+#     next_input = c.check_input_2()
+#     if next_input == '1':
+#         log.log_output_data_csv()
+#     else:
+#         log.log_output_data_term()

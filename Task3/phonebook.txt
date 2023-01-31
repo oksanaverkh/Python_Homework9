@@ -1,0 +1,135 @@
+Surname: Kim
+Name: Pak
+Telephone: 89993334477
+Comment: mobile
+
+Surname: Petrovsky
+Name: Alexander
+Telephone: 84959998811
+Comment: work
+
+Surname: Miller
+Name: Artur
+Telephone: 86666666666
+Comment: Mobile
+
+Surname: Black
+Name: Joe
+Telephone: +3759998880101
+Comment: mobile
+
+Surname: Jones
+Name: Jason
+Telephone: +12223334455
+Comment: mobile
+
+Surname: Escobar
+Name: Vasiliy
+Telephone: 84959998833
+Comment: work
+
+Surname: Wayne
+Name: Alfred
+Telephone: +11111111111
+Comment: mobile
+
+Surname: Kim
+Name: Sen
+Telephone: +558889990012
+Comment: mobile
+
+Surname: Toretto
+Name: Leticia
+Telephone: +12223330044
+Comment: mobile
+
+Surname: Scott
+Name: Tomas
+Telephone: +11567890675
+Comment: mobile
+
+Surname: Tsallaev
+Name: Gennady
+Telephone: 89049058812
+Comment: mobile
+
+Surname: Pierce
+Name: Ivan
+Telephone: +494567878
+Comment: home
+
+Surname: Yu
+Name: Ko
+Telephone: +178901234545
+Comment: mobile
+
+Surname: Maslov
+Name: Artemiy
+Telephone: 89079076745
+Comment: mobile
+
+Surname: Mendel
+Name: Guy
+Telephone: +679992221314
+Comment: mobile
+
+Surname: Jiff
+Name: Mohammed
+Telephone: 89012345678
+Comment: mobile
+
+Surname: Rashid
+Name: Ali
+Telephone: +783334445566
+Comment: mobile
+
+Surname: Kopernik
+Name: Valeriy
+Telephone: 83912641122
+Comment: home
+
+Surname: Maxwell
+Name: Irina
+Telephone: +56786789012
+Comment: mobile
+
+Surname: Rays
+Name: Max
+Telephone: +678882221314
+Comment: mobile
+
+Surname: Al Maktum
+Name: Abdulla
+Telephone: +47771119090
+Comment: mobile
+
+Surname: T
+Name: Chala
+Telephone: +901231232323
+Comment: mobile
+
+Surname: Khabibullin
+Name: Ruslan
+Telephone: 88985661212
+Comment: work
+
+Surname: Nakamora
+Name: Khan
+Telephone: +170004447878
+Comment: mobile
+
+Surname: Kulibali
+Name: Eric
+Telephone: +230007883434
+Comment: mobile
+
+Surname: Zhirnov
+Name: Michael
+Telephone: 89997005656
+Comment: mobile
+
+Surname: Kane
+Name: Hurry
+Telephone: +450009998877
+Comment: mobile
+
