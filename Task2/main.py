@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, CallbackContext
 import user_interface as ui
 
-app = ApplicationBuilder().token("5812301493:AAGP6LQ1R9DZ5SA-FkzcXZENs9QiMtm2a_8").build()
+app = ApplicationBuilder().token("YOUR TOKEN").build()
 print('server start')
      
 app.add_handler(CommandHandler("start", ui.start))
